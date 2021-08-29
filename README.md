@@ -30,4 +30,4 @@ Belajar Kelas Memulai Pemrograman dengan Java (Progress 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 
-Dan saya sangat senang sekali  
+Dan saya sangat senang sekali dan ilmunya bermanfaat
